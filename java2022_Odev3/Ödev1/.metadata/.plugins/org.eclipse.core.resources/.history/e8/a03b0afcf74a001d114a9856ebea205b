@@ -1,0 +1,31 @@
+public class Main {
+
+    public static void main(String[] args) {
+/*CreditManager creditManager = new CreditManager();
+		creditManager.Calculate();
+		creditManager.Calculate();
+		creditManager.Save();
+		Customer customer = new Customer(); //Instance creation
+		customer.Id = 1;
+		customer.City = "Ankara";
+		CustomerManager customerManager = new CustomerManager(customer);
+		customerManager.Save();
+		customerManager.Delete();
+		Company company = new Company();
+		company.TaxNumber = "34335454";
+		company.CompanyName ="Arçelik";
+		company.Id = 100;
+		Person person = new Person();
+		person.FirstName = "Rabi";
+		person.NationalyIdentity = "";
+		person.LastName = "ASDHF";
+		Customer c1 = new Customer();
+		Customer c2 = new Person();
+		Customer c3 = new Company();*/
+
+		//-----------------------------------
+
+		//IoC Container
+		CustomerManager customerManager = new CustomerManager(new Customer(), new MilitaryCreditManager());
+		customerManager.GiveCredit();
+		}}}
