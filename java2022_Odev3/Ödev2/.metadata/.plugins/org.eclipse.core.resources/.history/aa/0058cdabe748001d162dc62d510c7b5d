@@ -1,0 +1,11 @@
+package interfaces;
+
+public class SqlCustomerDal implements ICustomerDal,IRepository {
+
+	@Override
+	public void add() {
+		System.out.println("Sql Server eklendi!");
+		
+	}
+
+}

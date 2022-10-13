@@ -1,0 +1,9 @@
+package polymorphismDemo;
+
+public class CustomerManager {
+	public void Add() {
+		System.out.println("Müşteri Eklendi");
+		DatabaseLogger logger = new DatabaseLogger();
+		logger.Log("Log Mesajı");
+	}
+}

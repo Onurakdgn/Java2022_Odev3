@@ -1,0 +1,5 @@
+package enities;
+
+public class Instructor {
+
+}

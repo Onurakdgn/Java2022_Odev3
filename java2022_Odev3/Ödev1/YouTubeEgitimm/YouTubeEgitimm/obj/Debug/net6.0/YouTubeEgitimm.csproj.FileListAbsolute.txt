@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\YouTubeEgitimm\YouTubeEgitimm\bin\Debug\net6.0\YouTubeEgitimm.exe
+C:\Users\PC\source\repos\YouTubeEgitimm\YouTubeEgitimm\bin\Debug\net6.0\YouTubeEgitimm.deps.json
+C:\Users\PC\source\repos\YouTubeEgitimm\YouTubeEgitimm\bin\Debug\net6.0\YouTubeEgitimm.runtimeconfig.json
+C:\Users\PC\source\repos\YouTubeEgitimm\YouTubeEgitimm\bin\Debug\net6.0\YouTubeEgitimm.dll
+C:\Users\PC\source\repos\YouTubeEgitimm\YouTubeEgitimm\bin\Debug\net6.0\YouTubeEgitimm.pdb
+C:\Users\PC\source\repos\YouTubeEgitimm\YouTubeEgitimm\obj\Debug\net6.0\YouTubeEgitimm.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\YouTubeEgitimm\YouTubeEgitimm\obj\Debug\net6.0\YouTubeEgitimm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\YouTubeEgitimm\YouTubeEgitimm\obj\Debug\net6.0\YouTubeEgitimm.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\YouTubeEgitimm\YouTubeEgitimm\obj\Debug\net6.0\YouTubeEgitimm.AssemblyInfo.cs
+C:\Users\PC\source\repos\YouTubeEgitimm\YouTubeEgitimm\obj\Debug\net6.0\YouTubeEgitimm.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\YouTubeEgitimm\YouTubeEgitimm\obj\Debug\net6.0\YouTubeEgitimm.dll
+C:\Users\PC\source\repos\YouTubeEgitimm\YouTubeEgitimm\obj\Debug\net6.0\refint\YouTubeEgitimm.dll
+C:\Users\PC\source\repos\YouTubeEgitimm\YouTubeEgitimm\obj\Debug\net6.0\YouTubeEgitimm.pdb
+C:\Users\PC\source\repos\YouTubeEgitimm\YouTubeEgitimm\obj\Debug\net6.0\YouTubeEgitimm.genruntimeconfig.cache
+C:\Users\PC\source\repos\YouTubeEgitimm\YouTubeEgitimm\obj\Debug\net6.0\ref\YouTubeEgitimm.dll

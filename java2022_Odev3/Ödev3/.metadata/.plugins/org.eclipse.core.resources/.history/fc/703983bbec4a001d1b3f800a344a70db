@@ -1,0 +1,23 @@
+package kodlamaIO;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Course course1 = new Course(1, "Java", 5);
+		Category category1 = new Category(1, "Yazılım");
+		Educator educator1 = new Educator(1, "Engin", "Demiroğ");
+
+		Logger[] loggers = { new DatabaseLogger(), new FileLogger(), new MailLogger() };
+
+		CourseManager courseManager = new CourseManager(new HibernateCourseDao(), loggers);
+		courseManager.add(course1);
+		System.out.println("--------------------------------------");
+		CategoryManager categoryManager = new CategoryManager(new JdbcCategoryDao(), loggers);
+		categoryManager.add(category1);
+		System.out.println("--------------------------------------");
+		EducatorManager educatorManager = new EducatorManager(new HibernateEducatorDao(), loggers);
+		educatorManager.add(educator1);
+
+	}
+
+}

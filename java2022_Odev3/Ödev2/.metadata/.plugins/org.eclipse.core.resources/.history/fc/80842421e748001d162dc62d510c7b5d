@@ -1,0 +1,10 @@
+package interfaces;
+
+Ico
+
+public class CustomerManager {
+	public void add() {
+		// iş kodları
+		
+	}
+}
